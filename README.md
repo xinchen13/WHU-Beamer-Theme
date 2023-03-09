@@ -13,7 +13,7 @@ WHU 风格的 Beamer 主题
 
 # Instructions
 
-直接在 Oerleaf 导入本项目即可，编译方式选择 $Xe\LaTeX{}$
+直接在 Overleaf 导入本项目即可，编译方式选择 $Xe\LaTeX{}$
 
 
 ## Acknowledgements
