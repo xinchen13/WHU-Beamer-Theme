@@ -2,7 +2,7 @@
 WHU 风格的 Beamer 主题
 
 ## Preview
-<img src="./Preview.png" width="500" />
+<img src="./preview.png" width="520" />
 
 ## Features
 
