@@ -3,7 +3,9 @@ WHU 风格的 Beamer 主题，可用于答辩、汇报等
 
 ## Instructions
 
-直接在 Overleaf 导入本项目即可，编译方式选择 $Xe\LaTeX{}$
+1. 直接在 Overleaf 导入本项目，编译方式选择 $Xe\LaTeX{}$
+
+2. Overleaf 模板位于 [WHU-Beamer-Theme](https://www.overleaf.com/latex/templates/whu-beamer-theme/ngbfvsccrtqn)，可直接使用
 
 ## Features
 
