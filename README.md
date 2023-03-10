@@ -5,9 +5,6 @@ WHU 风格的 Beamer 主题，可用于答辩、汇报等
 
 直接在 Overleaf 导入本项目即可，编译方式选择 $Xe\LaTeX{}$
 
-## Preview
-<img src="./preview.png" width="520" />
-
 ## Features
 
 在 THU beamer 模板上作了一点修改:
@@ -16,6 +13,8 @@ WHU 风格的 Beamer 主题，可用于答辩、汇报等
 - 更新 2022 版新校徽
 
 
+## Preview
+<img src="./preview.png" width="520" />
 
 
 ## Acknowledgements
