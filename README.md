@@ -1,11 +1,11 @@
 # WHU-Beamer-Theme
-WHU 风格的 Beamer 主题，可用于答辩、汇报等
+:cherry_blossom: WHU 风格的 Beamer 主题，可用于答辩、汇报等
 
 ## Instructions
 
-1. 直接在 Overleaf 导入本项目，编译方式选择 $Xe\LaTeX{}$
+直接在 Overleaf 导入本项目，编译方式选择 $Xe\LaTeX{}$
 
-2. Overleaf 模板位于 [WHU-Beamer-Theme](https://www.overleaf.com/latex/templates/whu-beamer-theme/ngbfvsccrtqn)，可直接使用
+(更新: Overleaf 模板位于 [Overleaf: WHU-Beamer-Theme](https://www.overleaf.com/latex/templates/whu-beamer-theme/ngbfvsccrtqn)，可直接打开)
 
 ## Features
 
