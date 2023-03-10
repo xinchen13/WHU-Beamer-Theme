@@ -14,7 +14,7 @@ WHU 风格的 Beamer 主题，可用于答辩、汇报等
 
 
 ## Preview
-<img src="./preview.png" width="680" />
+<img src="./preview.png" width="750" />
 
 
 ## Acknowledgements
